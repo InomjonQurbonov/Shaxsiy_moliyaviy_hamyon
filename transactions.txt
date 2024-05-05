@@ -1,0 +1,54 @@
+Foydalanuvchi beucsbc 
+Sana: 2024-05-05
+Turkum: Iste'mol
+Miqdori: 200000000000.0
+Tavsif: nnesfks
+
+Foydalanuvchi beucsbc 
+Sana: 2024-05-05
+Turkum: Iste'mol
+Miqdori: 2000000.0
+Tavsif: sbfj
+
+Foydalanuvchi beucsbc 
+Sana: 2024-05-05
+Turkum: Daromad
+Miqdori: 2000000000.0
+Tavsif: esk
+
+Foydalanuvchi jiodnv 
+Sana: 2024-05-05
+Turkum: Iste'mol
+Miqdori: 200000000.0
+Tavsif: iefbsjkm
+
+Foydalanuvchi jiodnv 
+Sana: 2024-05-05
+Turkum: Daromad
+Miqdori: 1e+17
+Tavsif: ieksnf
+
+Foydalanuvchi Inomjon 
+Sana: 2024-05-05
+Turkum: Iste'mol
+Miqdori: 2000000.0
+Tavsif: aknkfnsk
+
+Foydalanuvchi Inomjon 
+Sana: 2024-05-05
+Turkum: Daromad
+Miqdori: 20000000.0
+Tavsif: iejf
+
+Foydalanuvchi Inomjon 
+Sana: 2024-05-05
+Turkum: Daromad
+Miqdori: 30000000000.0
+Tavsif: ebcjs
+
+Foydalanuvchi inomjon 
+Sana: 2024-05-05
+Turkum: Iste'mol
+Miqdori: 5000000000.0
+Tavsif: dsjv
+
